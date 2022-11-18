@@ -2,3 +2,4 @@ target/
 .git/
 .vscode/
 .DS_Store
+.gitignore
